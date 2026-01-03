@@ -1,5 +1,5 @@
 # Seija
-[![AUR](https://img.shields.io/aur/version/seija?logo=arch-linux&label=AUR&cacheSeconds=5)](https://aur.archlinux.org/packages/seija)
+[![AUR](https://img.shields.io/aur/version/seija?logo=arch-linux&label=AUR)](https://aur.archlinux.org/packages/seija)
 [![License](https://img.shields.io/badge/license-GPLv3-brightgreen)]()
 [![Language](https://img.shields.io/badge/language-Ruby-red)]()
 

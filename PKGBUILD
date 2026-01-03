@@ -11,5 +11,4 @@ sha256sums=('SKIP')
 
 package() {
     install -Dm755 "$srcdir/seija" "$pkgdir/usr/bin/seija"
-    install -Dm644 "$srcdir/README.md" "$pkgdir/usr/share/doc/$pkgname/README.md"
 }
